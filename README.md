@@ -31,7 +31,7 @@ I'm a developper who has more than 5 years of experience in Python, with focus o
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 <details>
-  <summary style="font-size: 76px; font-weight: bold; cursor: pointer;">Header</summary>
+  <h3> Currently </h3>
   I currently study at Istanbul Technical University in the department of AI & Data Engineering with a GPA 4.58 over 5 and work here at the Laboratory of Recommendation Systems, where I have been able to further strengthen my skills in AI systems and also work in a Survey on Automated Diagnosis of Alzheimer's Disease Using Optical Coherence Tomography and Angiography with Deep Learning methods in addition to all of these I work as ITU Rov Software team leader and preparating for many tournaments like Teknofest ,and Tac challenge.
 
   <p>This is the content of the expandable header.</p>
