@@ -8,19 +8,13 @@ I'm a developper who has more than 5 years of experience in Python, with focus o
 I currently study at Istanbul Technical University in the department of AI & Data Engineering with a GPA 3.5 over 5 and work here at the Laboratory of Recommendation Systems, where I have been able to further strengthen my skills in AI systems and also work in a Survey on Automated Diagnosis of Alzheimer's Disease Using Optical Coherence Tomography and Angiography with Deep Learning methods in addition to all of these I work as ITU Rov Software team leader and preparating for many tournaments like Teknofest ,and Tac challenge. While I countinue my learning in ITU I also study at Ecole 42 as a Main Course student where I work on embedded and more deep C, C++ project.
 
 ## 🌐 Contact
+- **Email:** [mburaozkan@gmail.com](mailto:mburaozkan@gmail.com)
+- **Website:** [mburaozkan.xyz](https://mburaozkan.xyz)
+- **LinkedIn:** [mburaozkan](www.linkedin.com/in/miraç-buğra-özkan-974ba51ba)
+- **Play Store:** [Mburaozkan](https://play.google.com/store/apps/developer?id=Mburaozkan)
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    - **Email:** [mburaozkan@gmail.com](mailto:mburaozkan@gmail.com)
-    - **Website:** [mburaozkan.xyz](https://mburaozkan.xyz)
-    - **LinkedIn:** [mburaozkan](www.linkedin.com/in/miraç-buğra-özkan-974ba51ba)
-    - **Play Store:** [Mburaozkan](https://play.google.com/store/apps/developer?id=Mburaozkan)
-  </div>
-  <div style="flex-shrink: 0; margin-left: 20px;">
-    ![giphy](https://github.com/mburaozkan/mburaozkan/assets/117448786/289b4145-bab4-4a4d-9da7-4033388c47ad)
+![giphy](https://github.com/mburaozkan/mburaozkan/assets/117448786/289b4145-bab4-4a4d-9da7-4033388c47ad)
 
-  </div>
-</div>
 
 ## 💡 Technologies and Tools
 
