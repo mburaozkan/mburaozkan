@@ -13,9 +13,6 @@ I currently study at Istanbul Technical University in the department of AI & Dat
 - **LinkedIn:** [mburaozkan](www.linkedin.com/in/miraç-buğra-özkan-974ba51ba)
 - **Play Store:** [Mburaozkan](https://play.google.com/store/apps/developer?id=Mburaozkan)
 
-![giphy](https://github.com/mburaozkan/mburaozkan/assets/117448786/289b4145-bab4-4a4d-9da7-4033388c47ad)
-
-
 ## 💡 Technologies and Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
