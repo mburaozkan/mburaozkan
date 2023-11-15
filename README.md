@@ -42,3 +42,4 @@ I currently study at Istanbul Technical University in the department of AI & Dat
 ![212284158-e840e285-664b-44d7-b79b-e264b5e54825](https://github.com/mburaozkan/mburaozkan/assets/117448786/b41b97c8-3b02-41da-9009-96f52c7fe90a)
 </p>
 
+![212284158-e840e285-664b-44d7-b79b-e264b5e54825](https://github.com/mburaozkan/mburaozkan/assets/117448786/b41b97c8-3b02-41da-9009-96f52c7fe90a)
