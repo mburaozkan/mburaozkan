@@ -1,5 +1,3 @@
-[![Header](header_image_url)](https://mburaozkan.xyz/)
-
 # ✨ Miraç Buğra Özkan ✨
 
 I'm a developper who has more than 5 years of experience in Python, with focus on Pandas, NumPy, and Matplotlib. I also have 3+ years of experience in Machine Learning and 2+ years in Deep Learning. In addition to my AI expertise, I have 5+ years of experience in Android and iOS development using Java, Kotlin, and Flutter. I am also proficient in C++ and C#, with 2+ years of experience in Unity game development. Furthermore, I have experience in web development using HTML, CSS, and JavaScript. I'm a developer, so I know how to create your mobile-desktop-web programs to run across devices using the latest technologies available. Also I'm a Freelancer, so I know how to create great designs, my goals are to focus on simplicity, efficiency and functionality on designs that I have done.
