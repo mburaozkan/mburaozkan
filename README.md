@@ -1,8 +1,12 @@
 # ✨ Miraç Buğra Özkan ✨
 
-I am a versatile developer with **6+ years of experience** in Python, specializing in **Pandas**, **NumPy**, and **Matplotlib**, alongside **4+ years in Machine Learning** and **3+ years in Deep Learning**. My expertise extends to **6+ years in Android and iOS development** using **Java**, **Kotlin**, and **Flutter**. I am also proficient in **C++** and **C#**, with **3+ years of experience in Unity game development**. Additionally, I have strong skills in **web development** using **HTML**, **CSS**, and **JavaScript**.  
+I am a developer with **6+ years of experience** in Python, specializing in **Reinforcement Learning**, **Natural Language Processing (NLP)**, and **Computer Vision**. With over **4 years in Machine Learning** and **3+ years in Deep Learning**, I focus on creating intelligent systems that solve complex real-world problems.  
 
-As a passionate developer and freelancer, I prioritize simplicity, efficiency, and functionality in every design and application I create. I am experienced in creating cross-platform programs and ensuring seamless user experiences across devices.
+My work spans a diverse range of AI-driven projects, including autonomous systems, robotic control algorithms, and innovative solutions for tasks like Alzheimer's diagnosis through retinal imaging and game level design with procedural generation. As the **Team Captain of the ITU ROV Team**, I lead the development of fully autonomous underwater vehicles, pushing the boundaries of robotics for competitions like **Teknofest** and **TAC Challenge**.
+
+Additionally, I have **3+ years of experience in Unity game development**, combining AI with game design to create adaptive and immersive environments. My expertise in robotics and embedded systems allows me to build seamless integrations between hardware and software, leveraging technologies like **ROS2** to enhance autonomy and control.
+
+Passionate about advancing the field of AI and robotics, I focus on creating systems that are efficient, reliable, and impactful.
 
 ---
 
