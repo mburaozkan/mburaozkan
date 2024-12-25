@@ -30,7 +30,7 @@ I am a **4th-year student** in the **Artificial Intelligence and Data Engineerin
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/mburaozkan/mburaozkan/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
