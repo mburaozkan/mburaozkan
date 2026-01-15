@@ -1,22 +1,25 @@
 # ✨ Miraç Buğra Özkan ✨
 
-I am a developer with **6+ years of experience** in Python, specializing in **Reinforcement Learning**, **Natural Language Processing (NLP)**, and **Computer Vision**. With over **4 years in Machine Learning** and **3+ years in Deep Learning**, I focus on creating intelligent systems that solve complex real-world problems.  
+I am a developer with **6+ years of experience** in Python, specializing in **Reinforcement Learning**, **Natural Language Processing (NLP)**, and **Computer Vision**. With **4+ years in Machine Learning** and **3+ years in Deep Learning**, I focus on building intelligent systems that solve complex real-world problems.
 
-My work spans a diverse range of AI-driven projects, including autonomous systems, robotic control algorithms, and innovative solutions for tasks like Alzheimer's diagnosis through retinal imaging and game level design with procedural generation. As the **Team Captain of the ITU ROV Team**, I lead the development of fully autonomous underwater vehicles, pushing the boundaries of robotics for competitions like **Teknofest** and **TAC Challenge**.
+My work spans a diverse range of AI-driven projects, including **autonomous robotics**, **embedded autonomy**, and **medical imaging**, such as Alzheimer’s research using **OCT/OCTA retinal scans** and procedural game level design using **Deep Reinforcement Learning**.
 
-Additionally, I have **3+ years of experience in Unity game development**, combining AI with game design to create adaptive and immersive environments. My expertise in robotics and embedded systems allows me to build seamless integrations between hardware and software, leveraging technologies like **ROS2** to enhance autonomy and control.
+As the **Team Leader of the ITU ROV Team**, I lead the development of **fully autonomous underwater vehicles**, pushing the boundaries of robotics for competitions like **Teknofest**, **TAC Challenge**, and **RAMI25 (Italy)**.
 
-Passionate about advancing the field of AI and robotics, I focus on creating systems that are efficient, reliable, and impactful.
+Additionally, I have **3+ years of experience in Unity game development**, combining AI with game design to create adaptive and immersive environments. With strong experience in robotics and embedded systems, I build seamless integrations between hardware and software, leveraging technologies like **ROS2** and **Micro-ROS** to enhance autonomy and control.
+
+Passionate about advancing the field of AI and robotics, I focus on creating systems that are **efficient, reliable, and impactful**.
 
 ---
 
 ## ⏳ Currently
 
-I am a **4th-year student** in the **Artificial Intelligence and Data Engineering** department at **Istanbul Technical University** with a GPA of **3.5/5**. I am:
+I am a **4th-year student** in the **Artificial Intelligence and Data Engineering** department at **Istanbul Technical University (ITU)** with a GPA of **3.40/5** (**Ranked 4th in the Department**). I am:
 
-- **Team Captain** of the ITU ROV Team, leading the development of fully autonomous underwater vehicles for competitions such as **Teknofest** and **TAC Challenge 2025**.
-- Working on my final project, **Procedural Game Level Design with Deep Reinforcement Learning**, utilizing Unity and ML-Agents to explore the intersection of AI and gaming.
-- Engaged in numerous projects to enhance my skills in **artificial intelligence** and **robotics**, including embedded systems, autonomous navigation, and intelligent systems design.
+- **Team Leader** of the **ITU ROV Team**, leading the development of fully autonomous underwater vehicles for competitions such as **Teknofest 2025**, **TAC Challenge**, and **RAMI25 (Italy)**.
+- Working on my graduation project, **Procedural Game Level Design with Deep Reinforcement Learning**, utilizing **Unity** and **ML-Agents (PPO)** to explore the intersection of AI and gaming.
+- Building real-world AI systems through industry experience, including **corporate ML model development** and **LLM-based chatbot improvement**.
+- Actively working on robotics education and community impact by coordinating underwater robotics training programs.
 
 ---
 
