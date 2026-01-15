@@ -12,17 +12,6 @@ Passionate about advancing the field of AI and robotics, I focus on creating sys
 
 ---
 
-## ⏳ Currently
-
-I am a **4th-year student** in the **Artificial Intelligence and Data Engineering** department at **Istanbul Technical University (ITU)** with a GPA of **3.40/5** (**Ranked 4th in the Department**). I am:
-
-- **Team Leader** of the **ITU ROV Team**, leading the development of fully autonomous underwater vehicles for competitions such as **Teknofest 2025**, **TAC Challenge**, and **RAMI25 (Italy)**.
-- Working on my graduation project, **Procedural Game Level Design with Deep Reinforcement Learning**, utilizing **Unity** and **ML-Agents (PPO)** to explore the intersection of AI and gaming.
-- Building real-world AI systems through industry experience, including **corporate ML model development** and **LLM-based chatbot improvement**.
-- Actively working on robotics education and community impact by coordinating underwater robotics training programs.
-
----
-
 ## 🌐 Contact
 
 - **Email:** [mburaozkan@gmail.com](mailto:mburaozkan@gmail.com)  
